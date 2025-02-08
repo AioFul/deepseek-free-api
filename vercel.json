@@ -16,7 +16,7 @@
         },
         {
             "src": "/(.*)",
-            "dest": "/dist",
+            "dest": "dist/index.js",
             "headers": {
                 "Access-Control-Allow-Credentials": "true",
                 "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT",
